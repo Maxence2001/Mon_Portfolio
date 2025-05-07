@@ -2,7 +2,7 @@ import morpion from '../assets/images/morpion.png';
 import compteur from '../assets/images/compteur.png';
 import generateur from '../assets/images/generateur.png';
 import inscription from '../assets/images/inscription.png';
-import inversseur from '../assets/images/inversseur.png';
+import inversseur from '../assets/images/Inversseur.png';
 
 export const projects = [{
         id: 1,
