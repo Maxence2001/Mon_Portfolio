@@ -19,17 +19,11 @@ function App() {
               <article>
                 <h2>A propos de moi</h2>
                 <p>
-                Je suis un programmeur passionné par l’informatique et
-                 la technologie, toujours en quête de nouveaux défis. 
-                 Bien que je sois relativement nouveau dans le domaine 
-                 de la programmation, j’ai acquis une solide base en 
-                 développement web, mobile et en intelligence artificielle,
-                  et je suis déterminé à poursuivre mon apprentissage tout 
-                  en mettant mes compétences en pratique. Mon objectif est 
-                  de gagner de l’expérience professionnelle en travaillant 
-                  avec des entreprises ou des particuliers qui souhaitent 
-                  collaborer. N’hésitez pas à me contacter si vous êtes 
-                  intéressé par une collaboration.
+                Programmeur passionné et curieux, avec une base solide 
+                en développement web, mobile et IA. Je cherche à 
+                collaborer sur des projets réels pour développer mes 
+                compétences et gagner en expérience.
+                Ouvert aux collaborations — contactez-moi !
                 </p>
               </article>
             </section>
