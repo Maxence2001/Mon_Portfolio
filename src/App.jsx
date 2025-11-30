@@ -44,18 +44,17 @@ function App() {
                 <div className='project-info'>
                   <h3>Peut-être un Site web de gestion de medias sociaux</h3>
                   <p>
-                  Passionné par le développement web, je suis actuellement à la
-                   recherche d’opportunités pour collaborer sur des projets variés,
-                    que ce soit pour des particuliers ou des entreprises. Mon 
-                    expertise en React.js, Python, JavaScript, etc associée à ma 
-                    capacité à apprendre rapidement de nouveaux langages, me permet 
-                    de m’adapter à divers environnements techniques. Je suis 
-                    particulièrement motivé à l’idée de découvrir et de maîtriser 
-                    de nouveaux outils si nécessaire, car je considère chaque projet 
-                    comme une opportunité d’apprentissage. Travailler avec des 
-                    clients me permettrait non seulement de mettre en pratique mes 
-                    compétences, mais aussi d’enrichir mon expérience et de 
-                    contribuer de manière significative à des projets innovants.
+                  Je suis un programmeur passionné par l’informatique et les 
+                  technologies, toujours motivé par le désir de relever de 
+                  nouveaux défis. Bien que je sois encore au début de mon 
+                  parcours, j’ai déjà développé une solide base en 
+                  développement web, mobile ainsi qu’en intelligence 
+                  artificielle, et je suis déterminé à continuer de 
+                  progresser chaque jour. Mon objectif est d’acquérir 
+                  de l’expérience professionnelle tout en mettant mes 
+                  compétences au service d’entreprises ou de particuliers
+                   souhaitant collaborer sur des projets concrets.
+                    Si vous êtes intéressé par une collaboration, n’hésitez pas à me contacter.
                   </p>
                   <div className='project-link'>
                   <Button

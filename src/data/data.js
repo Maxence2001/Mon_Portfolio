@@ -59,7 +59,7 @@ export const experience = [{
 ];
 
 export const educations = [{
-        title: "DEC Informatique",
+        title: "DEC Techniques de l’informatique",
         name: "Institute teccart",
     },
     {

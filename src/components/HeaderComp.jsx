@@ -49,7 +49,7 @@ const HeaderComp = () => {
         <img src={moi} alt='' className='rounded-image' />
         <div className='user-infos'>
           <h1>Maxence Ethan</h1>
-          <h3>Developpeur web - mobile</h3>
+          <h3>Developpeur web - mobile - Intelligence artificielle</h3>
           <div className='contacts'>
             <div className='contact-item'>
               <a
